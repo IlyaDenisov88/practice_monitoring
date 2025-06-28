@@ -34,3 +34,13 @@ ___
 ## Возможные доработки
 - Добавить систему оповещений при превышении пороговых значений
 - Сохранять данные в БД (например, InfluxDB или PostgreSQL)
+
+___
+
+![image](https://github.com/user-attachments/assets/1b0c8425-8080-4b5e-b2c0-2caa4905bf6d)
+![image](https://github.com/user-attachments/assets/956f2ce4-ce84-464b-879b-3d15d2e007b9)
+![image](https://github.com/user-attachments/assets/8ba4f2b2-9ea2-474e-82f9-3ce664452954)
+
+
+
+
